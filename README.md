@@ -57,7 +57,7 @@ CIFAR-10 — airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truc
 ## Results
 
 | Model | Accuracy(%) | Parameter |
-|---|---|---|---|
+|---|---|---|
 | CNN baseline | 87 | 1,343,146 |
 | ResNet18 (fine-tuned) | 94 | 8,527,626 |
 | ViT Teacher | 80 | 6,350,602 |
