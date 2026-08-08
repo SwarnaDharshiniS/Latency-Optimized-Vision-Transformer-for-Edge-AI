@@ -1,7 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
 ![ONNX](https://img.shields.io/badge/ONNX-Runtime-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # EdgeViT: Latency-Optimized Vision Transformer for Edge AI
 
